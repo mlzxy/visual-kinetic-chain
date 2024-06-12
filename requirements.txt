@@ -1,0 +1,13 @@
+geomloss
+albumentations
+scipy
+moviepy
+wandb
+jstyleson
+transformers
+ujson
+accelerate
+peft
+opencv-python==4.5.2.52
+easydict
+kinpy
