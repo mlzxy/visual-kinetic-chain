@@ -1,6 +1,6 @@
 # Scaling Manipulation Learning with Visual Kinematic Chain Prediction
 
-[Arixv Paper]()
+[Arixv Paper](http://arxiv.org/abs/2406.07837)   [Website](https://mlzxy.github.io/visual-kinetic-chain/)
 
 ![](docs/demo.gif)
 
